@@ -14,12 +14,12 @@ Die Fahrzeit zwischen zwei Adressen und die Verzoegerung zur regulaeren Fahrzeit
 
 ### 2. Einrichten der Instanzen in IP-Symcon
 
-* Unter 'Instanz hinzufuegen das 'GoogleDistanceTraveltime'-Modul des Herstellers 'LociSymcon' auswaehlen und eine neue Instanz erzeugen.
+* Unter 'Instanz hinzufuegen das 'GoogleDistanceTraveltime'-Modul auswaehlen und eine neue Instanz erzeugen.
 * Google API Key erzeugen und eintragen (Google Distance Matrix API muss freigeschaltet sein)
 * Start und Zieladresse eintragen (Format kann in Google Maps geprueft werden)
 * Aktualisierungsinterval waehlen (Kostenfrei sind 2500 Abrufe je Tag in der Google Distance Matrix API - das Intervall sollte also auf maximal 2 Minuten reduziert werden, wenn nur eine Instanz aktiv ist)
 
 ### 3. PHP-Befehlsreferenz
 
-`LOCIGDT_Update();`
+`LOCIGT_Update();`
 Aktualisiert die Werte der Instanz

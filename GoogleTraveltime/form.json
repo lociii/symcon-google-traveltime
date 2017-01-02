@@ -1,15 +1,15 @@
 {
     "elements": [
         {"type": "Label", "label": "Service settings"},
-        {"type": "ValidationTextBox", "name": "gdt_api_key", "caption": "API key"},
+        {"type": "ValidationTextBox", "name": "gt_api_key", "caption": "API key"},
         {"type": "Label", "label": "User settings"},
-        {"type": "ValidationTextBox", "name": "gdt_origin", "caption": "Origin"},
-        {"type": "ValidationTextBox", "name": "gdt_destination", "caption": "Destination"},
+        {"type": "ValidationTextBox", "name": "gt_origin", "caption": "Origin"},
+        {"type": "ValidationTextBox", "name": "gt_destination", "caption": "Destination"},
         {"type": "Label", "label": "Module settings"},
-        {"type": "IntervalBox", "name": "gdt_interval", "caption": "(in minutes)"}
+        {"type": "IntervalBox", "name": "gt_interval", "caption": "(in minutes)"}
     ],
     "actions": [
-        {"type": "Button", "label": "Update", "onClick": "LOCIGDT_Update($id);"}
+        {"type": "Button", "label": "Update", "onClick": "LOCIGT_Update($id);"}
     ],
     "status": [
         {"code": 101, "icon": "active", "caption": "Instance is getting created!"},
