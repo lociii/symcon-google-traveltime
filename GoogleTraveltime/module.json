@@ -1,0 +1,13 @@
+{
+    "id": "{469FB6E1-45D7-4C6A-B2E0-86F3CDA026B4}",
+    "name": "GoogleTraveltime",
+    "type": 3,
+    "vendor": "",
+    "aliases": [
+        "Google traveltime"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "LOCIGDT"
+}

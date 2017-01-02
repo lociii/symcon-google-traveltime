@@ -1,0 +1,14 @@
+{
+    "translations": {
+        "de": {
+            "Service settings": "Dienst-Einstellungen",
+            "API key": "API Schlüssel",
+            "User settings": "Benutzer-Einstellungen",
+            "Origin": "Start",
+            "Destination": "Ziel",
+            "Module settings": "Modul-Einstellungen",
+            "(in minutes)": "(in Minuten)",
+            "Update": "Aktualisieren"
+        }
+    }
+}
