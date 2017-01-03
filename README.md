@@ -1,5 +1,5 @@
 # Google traveltime
-Die Fahrzeit zwischen zwei Adressen und die Verzoegerung zur regulaeren Fahrzeit koennen als Variablen abgelegt werden
+Die Fahrzeit zwischen zwei Adressen und die Verzoegerung zur regulaeren Fahrzeit werden als Variablen abgelegt
 
 ### Inhaltverzeichnis
 
