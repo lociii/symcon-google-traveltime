@@ -1,3 +1,7 @@
+# UNMAINTAINED
+This project is not maintained anymore. Feel free to fork and use it.
+No support nor development will be done!
+
 # Google traveltime
 Die Fahrzeit zwischen zwei Adressen und die Verzoegerung zur regulaeren Fahrzeit werden als Variablen abgelegt
 
